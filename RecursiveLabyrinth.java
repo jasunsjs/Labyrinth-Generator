@@ -1,3 +1,11 @@
+/**
+ * Recursive Labyrinth
+ * @author Jason Sun
+ * @version 1.0 
+ * March 2022
+ */
+
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.PrintWriter;
